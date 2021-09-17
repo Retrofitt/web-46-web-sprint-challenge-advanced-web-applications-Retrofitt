@@ -19,10 +19,7 @@ function App() {
         console.error(err)
       }) 
   }
-  
-  
 
-  console.log(localStorage)
   return (
     <Router>
       <div className="App">
